@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+       Remove this if you use the .htaccess -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+  <title>Bredbandswebben</title>
+  <meta name="description" content="" />
+  <meta name="author" content="Joakim Johansson" />
+
+  <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="stylesheet" href="style.css" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+  <script src="js/jquery-1.7.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/rotate.js" type="text/javascript" charset="UTF-8"></script>
+</head>
+
+<body>
+  <div class="wrapper"><!-- .wrapper -->
+				<div class="topAreaBackground"></div>
+        <div class="topMenuBar"><!-- .topMenuBar -->
+        	<ul>
+                <li><a href="#">Logga in</a></li>
+                <li><a href="#">Kontakt</a></li>
+          </ul>
+    	</div><!-- /.topMenuBar -->
+		<div class="topArea"><!-- .topArea -->
+			<div class="hero sys12Grid9"><!-- .hero -->
+				<div class="logo"><h1>Bredbandswebben</h1></div>
+                <div class="logoBorder"></div>
+            	<a href="#"><img src="img/BBW_skor.jpg" alt="kampanjerbjudande" /></a>
+			</div><!-- /.hero -->
+		</div><!-- /.topArea -->
+        <div class="sys12Grid12 progressBar secondProgressStep">
+        </div><!-- #progressBar -->
+		<div id="content" class="sys12Grid12"><!-- #content -->
+        	<div class="sys12Grid2 address box"><!-- .address -->
+            	<ul>
+                	<h4>Inkopplingsadress</h4>
+                	<li>Storgatan 1B, 3 tr</li>
+                    <li>108 91 Rågsved</li>
+                </ul>
+            </div><!-- /.address -->
+            <div class="sys16Grid8 sys12Prefix1 box registerForm"><!-- .registerForm -->
+            	<h3>Fyll i uppgifter och klicka på Nästa</h3>
+                <form>
+                    <label>
+                        <span>Personnummer:</span>
+                        <input type="text" class="inputNum" name="personalnumber" id="personalnumber"/>
+                    </label>
+                     <label>
+                        <span>Förnamn:</span>
+                        <input type="text" class="inputText" name="name" id="name"/>
+                    </label>
+                    <label>
+                        <span>Efternamn:</span>
+                        <input type="text" class="inputText" name="surname" id="surname"/>
+                    </label>
+                    <label>
+                        <span>Telefon dagtid:</span>
+                        <input type="text" class="inputNum" name="phone" id="phone"/>
+                    </label>
+                    <label>
+                        <span>Mobilnummer:</span>
+                        <input type="text" class="inputNum" name="mobilephone" id="mobilephone"/>
+                    </label>
+                    <label>
+                        <span>E-postadress:</span>
+                        <input type="text" class="inputText" name="email" id="email"/>
+                    </label>
+                    <label>
+                        <span class="faktura">Ska faktura skickas till inkopplingsadressen?</span>
+                        <input type="radio" class="inputRadio" value="ja" name="faktura" id="faktura" checked="checked" />Ja
+                        <input type="radio" class="inputRadio" value="nej" name="faktura" id="faktura" />Nej
+                    </label>
+                    <label>
+                        <span>Inkopplingsdatum:</span>
+                        <input type="date" name="user_date" value="2012-09-10" />
+                    </label>
+                </form>
+            </div><!-- /.registerForm -->
+            <div class="navButtons sys12Grid12"><!-- .navButtons -->
+                <div class="cancelFlow sys12Grid2"><!-- .cancelFlow -->
+                	<a class="button" href="readmore.html">Tillbaka</a>
+            	</div><!-- /.cancelFlow -->
+            	<div class="nextStepFlow sys12Prefix8 sys12Grid2"><!-- .buyNow -->
+            		<a class="button" href="confirm.html">Nästa</a>
+            	</div><!-- /.buyNow -->
+            </div><!-- /.navButtons -->
+		</div><!-- /#content -->
+  </div><!-- /.wrapper -->
+</body>
+</html>

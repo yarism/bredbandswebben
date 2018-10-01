@@ -1,0 +1,260 @@
+<mockup version="1.0" skin="sketch" measuredW="1338" measuredH="833" mockupW="1014" mockupH="815">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="324" y="18" w="1014" h="815" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Awww.bredbandswebben.se</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="343" y="130" w="201" h="100" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="579" y="122" w="479" h="-1" measuredW="471" measuredH="41" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>forstasida_nykund1.0%26bm%3Bforstasida_nykund1.0.bmml%26bm%3Bforstasida_nykund1.0.bmml%26bm%3Bforstasida_nykund1.0.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C104%2C734%2C145%22%20href%3D%22forstasida_nykund1.0.bmml%22%20alt%3D%22forstasida_nykund1.0%22%20id%3D%222%22/%3E</map>
+        <size>32</size>
+        <text>V%E4lkommen%20till%20Bredbandswebben</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="343" y="401" w="953" h="-1" measuredW="100" measuredH="5" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="528" y="245" w="-1" h="147" measuredW="16" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="343" y="245" w="185" h="147" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>NYHETER%0A%20%0A2012-06-25%0AJust%20nu%20st%F6rning%20p%E5%20fibern%E4tet.%20Klartid%20%E4r%20imorgon%20kl%2008%3A00%0A%20%0A2012-06-23%0ANy%20sportkanal%20kommer%20i%20h%F6st.%0A%20%0A2012-05-12%0AVi%20bygger%20ut%20n%E4tet.%20200%20nya%20hush%E5ll%20klara.%20%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="1216" y="115" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logga%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="1135" y="118" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Redan%20kund%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="579" y="179" w="479" h="215" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="804" y="194" w="239" h="168" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="1069" y="180" w="227" h="212" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="1084" y="194" w="181" h="27" measuredW="103" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Kundsupport</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="1084" y="230" w="-1" h="-1" measuredW="96" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fr%E5gor%20och%20svar</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="1084" y="259" w="-1" h="-1" measuredW="88" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Anv%E4ndarguide</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="1085" y="291" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Kontakta%20oss%3A</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="1084" y="351" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>support@statsnat.se</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="1084" y="310" w="-1" h="-1" measuredW="140" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Telefon%20020%20123-%20456%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="1084" y="327" w="-1" h="-1" measuredW="132" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%D6ppet%20alla%20dagar%208-21</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::SubTitle" x="600" y="253" w="-1" h="-1" measuredW="182" measuredH="33" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nu%20%E4nnu%20billigare%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::SubTitle" x="600" y="212" w="-1" h="-1" measuredW="179" measuredH="33" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sommarkampanj</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1317" y="91" w="-1" h="720" measuredW="16" measuredH="100" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Canvas" x="339" y="413" w="957" h="389" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>roundedSolid</borderStyle>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Button" x="408" y="756" w="74" h="27" measuredW="67" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>forstasida_nykund1.5%26bm%3Bforstasida_nykund1.5.bmml%26bm%3Bforstasida_nykund1.5.bmml%26bm%3Bforstasida_nykund1.5.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2284%2C738%2C158%2C765%22%20href%3D%22forstasida_nykund1.5.bmml%22%20alt%3D%22forstasida_nykund1.5%22%20id%3D%22107%22/%3E</map>
+        <text>Tillbaka</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Icon" x="370" y="753" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>LeftArrowIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Button" x="1145" y="756" w="74" h="27" measuredW="58" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Bekraftelse%26bm%3BBekraftelse.bmml%26bm%3BBekraftelse.bmml%26bm%3BBekraftelse.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22821%2C738%2C895%2C765%22%20href%3D%22Bekraftelse.bmml%22%20alt%3D%22Bekraftelse%22%20id%3D%22109%22/%3E</map>
+        <text>N%E4sta</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Icon" x="1236" y="753" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>RightArrowIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::TextInput" x="784" y="486" w="102" h="-1" measuredW="93" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>541205-2121</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::TextInput" x="784" y="519" w="239" h="-1" measuredW="42" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Anna</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::TextInput" x="784" y="552" w="239" h="-1" measuredW="73" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bengtsson</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::TextInput" x="784" y="585" w="114" h="-1" measuredW="80" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>08-904512</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::TextInput" x="784" y="617" w="114" h="-1" measuredW="93" measuredH="27" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0761-083146</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Label" x="417" y="497" w="-1" h="-1" measuredW="118" measuredH="22" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>Inkopplingsadress</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Label" x="677" y="489" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Personnummer</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Label" x="677" y="520" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>F%F6rnamn</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Label" x="677" y="555" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Efternamn</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="677" y="588" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Telefon%20dagtid</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Label" x="677" y="620" w="-1" h="-1" measuredW="80" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mobilnummer</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::TextInput" x="784" y="648" w="239" h="-1" measuredW="160" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>anna.begtsson@telia.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Label" x="677" y="651" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>E-postadress</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Label" x="404" y="428" w="-1" h="-1" measuredW="166" measuredH="33" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3700253</color>
+        <size>24</size>
+        <text>2/3%20Registrera</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Label" x="677" y="690" w="-1" h="-1" measuredW="252" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ska%20faktura%20skickas%20till%20inkopplingsadressen%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::CheckBox" x="944" y="689" w="-1" h="-1" measuredW="41" measuredH="22" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Ja</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::CheckBox" x="993" y="692" w="260" h="17" measuredW="45" measuredH="22" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nej</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="__group__" x="417" y="528" w="141" h="74" measuredW="141" measuredH="74" zOrder="32" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="6" y="9" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="0" locked="false" isInGroup="136">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Storgatan%201B%2C%203%20tr</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="33" w="-1" h="-1" measuredW="97" measuredH="21" zOrder="1" locked="false" isInGroup="136">
+          <controlProperties>
+            <bold>true</bold>
+            <text>108%2091%20R%E5gsved</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::HelpButton" x="114" y="34" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="2" locked="false" isInGroup="136"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="141" h="74" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="136">
+          <controlProperties>
+            <backgroundAlpha>0.25</backgroundAlpha>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::DateChooser" x="785" y="728" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>12/06/29%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Label" x="677" y="728" w="-1" h="-1" measuredW="101" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inkopplingsdatum</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="677" y="432" w="-1" h="-1" measuredW="229" measuredH="24" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Fyll%20i%20uppgifter%20och%20tryck%20N%E4sta</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

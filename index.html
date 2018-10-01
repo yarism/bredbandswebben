@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+       Remove this if you use the .htaccess -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+  <title>Bredbandswebben</title>
+  <meta name="description" content="" />
+  <meta name="author" content="Joakim Johansson" />
+
+  <!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="stylesheet" href="style.css" type="text/css" />
+  <link rel="stylesheet" href="slider.css" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+  <script src="js/jquery-1.7.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+  <script src="js/rotate.js" type="text/javascript" charset="UTF-8"></script>
+  <script src="js/sliders.js" type="text/javascript" charset="UTF-8"></script>
+  <script src="js/scroll.js" type="text/javascript" charset="UTF-8"></script>
+</head>
+
+<body>
+  <div class="wrapper"><!-- .wrapper -->
+		<div class="topAreaBackground"><a href="#"></a></div>
+        <div class="topMenuBar"><!-- .topMenuBar -->
+        	<ul>
+                <li><a href="#">Logga in</a></li>
+                <li><a href="#">Kontakt</a></li>
+          </ul>
+    	</div><!-- /.topMenuBar -->
+		<div class="topArea"><!-- .topArea -->
+			<div class="hero sys12Grid9"><!-- .hero -->
+            	<div class="logo"><h1>Bredbandswebben</h1></div>
+                <div class="logoBorder"></div>
+            	<a href="#"><img src="img/BBW_skor.jpg" alt="kampanjerbjudande" /></a>
+			</div><!-- /.hero -->
+		</div><!-- /.topArea -->
+       	<div class="sys12Grid12 progressBar"><!-- .progessBar -->
+        </div><!-- /.progressBar -->
+		<div id="content" class="sys12Grid12"><!-- #content -->
+			<span class="bubble" id="choicesBubble">Gör dina val</span>​
+			<div class="menuLeft sys16Grid5"><!-- .menu -->
+				<ul><h3>Tjänsteutbud:</h3>
+					<li class="menuChoices" id="firstMenuChoice"><div id="broadbandArrow" class="arrowDown"></div><div class="menuCheckbox"><input id="broadband" type="checkbox" class="headline" /><img src="img/bredband_icon.png" alt="Bredband" /><label for="broadband">Bredband</label></div>
+                        <ul id="broadbandMenu">
+                            <li><h4>Välj hastighet:</h4>
+                                <ul id="speed">
+                                    <li><a href="#" id="slowerFilter"><b><input type="checkbox" />Liten - 0.25-2 mbit/s</a></li>
+                                    <li><a href="#"><b><input type="checkbox" checked="checked" />Mellan - 8-10 mbit/s</b></a></li>
+                                    <li><a href="#" id="fastestFilter"><input type="checkbox" />Stor - 100-1000 mbit/s</a></li>
+                                </ul>
+                            </li>
+                        	<span class="bubble" id="helpBubble">Hastighetstips</span>​
+                        </ul>
+                    </li>
+					<li class="menuChoices" id="secondMenuChoice"><div class="arrowDown"></div><div class="menuCheckbox"><input id="IP-telefoni" type="checkbox" class="headline" /><img src="img/telefoni_icon.png" alt="IP-telefoni" /><label for="IP-telefoni">IP-telefoni</label></div></li>
+					<li class="menuChoices" id="thirdMenuChoice"><div class="arrowDown"></div><div class="menuCheckbox"><input id="Digital-TV" type="checkbox" class="headline" /><img src="img/TV_icon.png" alt="Digital-TV" /><label for="Digital-TV">Digital-TV</label></div></li>
+				</ul>
+			</div><!-- /.menu -->
+			<div class="selectOperator sys12Grid8"><!-- .selectOperator -->
+				<h3 id="result" class="results">2 erbjudanden</h3>
+				<div class="filter" style="margin-right:-18px;"><!-- .filter -->
+					<h3>Sortera på</h3>
+					<select>
+						<option id="goodPrice">Lägsta pris</option>
+						<option id="highSpeed">A-Ö</option>
+					</select>
+				</div><!-- /.filter -->
+				<ul id="offers" class="listOffers">
+					<a href="readmore.html"><li class="slowerFilterSelected"><img class="logo" src="img/bahnhof.png" alt="bahnhof" /><h4>Bredband 10 mbit/sek</h4><p>Surfa snabbt, driftsäkert och integritetsmärkt!</p><span><div class="price"><p>299 kr/mån</p></div><p class="readMore">Läs mer och beställ</p><div class="callToActionArrow"></div><div class="callToActionArrowCorner"></div></span></li></a>
+					<a href="#"><li  class="slowerFilterSelected"><h4><img class="logo" src="img/logo-universal-main.png" alt="universial telecom" />Bredband 10 mbit/sek</h4><p>Ingen oro för kostnad och teknikkrångel.</p><span><div class="price"><p>329 kr/mån</p></div><p class="readMore">Läs mer och beställ</p><div class="callToActionArrow"></div><div class="callToActionArrowCorner"></div></span></li></a>
+                    <a href="#"><li class="fastestFilterSelected"><img class="logo" src="img/logo.jpeg" alt="blixia" /><h4>Bredband 100 mbit/sek</h4><p>Snabbt, smidigt och enkelt på en faktura. Alltid till fast pris!</p><span><div class="price"><p>339 kr/mån</p></div><p class="readMore">Läs mer och beställ</p><div class="callToActionArrow"></div><div class="callToActionArrowCorner"></div></span></li></a>
+                    <a href="#"><li class="fastestFilterSelected"><img class="logo" src="img/bahnhof.png" alt="bahnhof" /><h4>Bredband 100 mbit/sek</h4><p>Surfa snabbt, driftsäkert och integritetsmärkt!</p><span><div class="price"><p>369 kr/mån</p></div><p class="readMore">Läs mer och beställ</p><div class="callToActionArrow"></div><div class="callToActionArrowCorner"></div></span></li></a>
+					<a href="#"><li class="fastestFilterSelected"><h4><img class="logo" src="img/logo-universal-main.png" alt="universial telecom" />Bredband 100 mbit/sek</h4><p>Ingen oro för kostnad och teknikkrångel.</p><span><div class="price"><p>375 kr/mån</p></div><p class="readMore">Läs mer och beställ</p><div class="callToActionArrow"></div><div class="callToActionArrowCorner"></div></span></li></a>
+                    <a href="#"><li class="fastestFilterSelected"><img class="logo" src="img/logo.jpeg" alt="blixia" /><h4>Bredband 100 mbit/sek</h4><p>Snabbt, smidigt och enkelt på en faktura. Alltid till fast pris!</p><span><div class="price"><p>400 kr/mån</p></div><p class="readMore">Läs mer och beställ</p><div class="callToActionArrow"></div><div class="callToActionArrowCorner"></div></span></li></a>
+                    <a href="#"><li class="fastestFilterSelected"><img class="logo" src="img/bahnhof.png" alt="bahnhof" /><h4>Bredband 100 mbit/sek</h4><p>Surfa snabbt, driftsäkert och integritetsmärkt!</p><span><div class="price"><p>415 kr/mån</p></div><p class="readMore">Läs mer och beställ</p><div class="callToActionArrow"></div><div class="callToActionArrowCorner"></div></span></li></a>
+					<a href="#"><li class="fastestFilterSelected"><h4><img class="logo" src="img/logo-universal-main.png" alt="universial telecom" />Bredband 100 mbit/sek</h4><p>Ingen oro för kostnad och teknikkrångel.</p><span><div class="price"><p>450 kr/mån</p></div><p class="readMore">Läs mer och beställ</p><div class="callToActionArrow"></div><div class="callToActionArrowCorner"></div></span></li></a>
+				</ul>
+			</div><!-- /.selectOperator -->
+		</div><!-- /#content -->
+  </div><!-- /.wrapper -->
+  
+
+<div id="lightbox-panel">
+    <h2>Välkommen att beställa bredband, tv eller telefoni!</h2>
+    <ul>
+    	<li><span class="circle"><span class="numbers">1</span></span><p>Välj tjänster</p></li> 
+ 		<li><span class="circle"><span class="numbers">2</span></span><p>Lägg beställning</p></li>
+		<li><span class="circle"><span class="numbers">3</span></span><p>Börja surfa  med en gång!</p></li>
+	</ul>
+	<div class="sys12Grid7 buttons">
+        	<a class="button privateButton" id="close-panel" style="float:left;" href="#">Privat</a>
+    		<a class="button companyButton" id="close-panel-company" style="float:right;" href="#">Företag</a>
+    </div>
+</div><!-- /lightbox-panel -->
+
+<div id="lightbox-help">
+    <div class="firstTip"><!-- .firstTip -->
+    	<h4>Liten -  0,25-2 mbit/sek</h4>
+    	<p>För dig som nöjer dig med att läsa tidningen, skicka e-post eller handla på Internet.</p>
+    </div><!-- /.firstTips -->
+    <div class="secondTip"><!-- .secondTip -->
+    	<h4>Mellan - 8-10 mbit/sek</h4>
+    	<p>För dig som vill använda Internet till att streama TV, se på film eller spela online.</p>
+    </div><!-- /.secondTips -->
+    <div class="thirdTip"><!-- .secondTip -->
+    	<h4>Stor - 100-1000 mbit/sek</h4>
+    	<p>För dig som vill ha ut maximalt av Internet. Ladda ner och upp tunga filer på ett kick. Hastigheten kommer aldrig begränsa dig!</p>
+    </div><!-- /.secondTips -->
+    <a id="close-help" href="#"></a></p>
+</div><!-- /lightbox-help -->
+
+<div id="lightbox" class="lightbox"></div><!-- /lightbox -->
+
+
+</body>
+</html>
